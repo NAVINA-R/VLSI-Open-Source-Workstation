@@ -15,11 +15,11 @@ VLSI flows using freely available tools.
 - SKY130 PDK
 
 ## What This Repo Contains
-✔ Workstation & VM setup
-✔ Tool installation guides
-✔ Analog & Digital designs
-✔ Layouts with DRC/LVS
-✔ Learning notes and mistakes
+  ✔ Workstation & VM setup<br>
+  ✔ Tool installation guides<br>
+  ✔ Analog & Digital designs<br>
+  ✔ Layouts with DRC/LVS<br>
+  ✔ Learning notes and mistakes<br>
 
 ## Target
 Preparing for VLSI Front-End / Back-End roles.
